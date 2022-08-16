@@ -1,6 +1,6 @@
 **Woodbury University School of Architecture**
 
-# Criticism 5: Degree Project Research
+## Criticism 5: Degree Project Research
 
 **ARCH 441**
 
@@ -37,10 +37,10 @@ Critical Position: Students will establish a critical position within the discip
 Research: Students will develop ability to examine sources beyond the course bibliography and integrate them into the development of a project proposal.
 
 Precision: Students will construct a precise and functioning software plug-in. This will be demonstrated in clear code hierarchy, creative use of syntax, transparent commenting, and program functionality.
+  
+**Plugins for Architecture**
 
-MEDIUM
-
-It [a computer] is a medium that can dynamically simulate the details of any other medium, including media that cannot exist physically. It is not a tool, though it can act like many tools. It is the first metamedium, and as such has degrees of freedom for representation and expression never before encountered and as yet barely Investigated. (Alan Kay, "Computer Software", 1984)
+>It [a computer] is a medium that can dynamically simulate the details of any other medium, including media that cannot exist physically. It is not a tool, though it can act like many tools. It is the first metamedium, and as such has degrees of freedom for representation and expression never before encountered and as yet barely Investigated. (Alan Kay, "Computer Software", 1984)
 
 Within much of architectural education and practice computers and by extension software are considered tools. Students learn to use "digital tools" to produce images of buildings as plans, sections, elevations, and renderings. Similarly, three-dimensional objects are produced through 3D printing or other means of digital fabrication. When we call a computer or a piece of software a tool, we do so with the intent of carefully separating the work of the tool from the intent of the designer/author. The tool is deployed by the designer to produce a specific result. The tool is little more than a facilitator. The tool is not the author. At least this is the argument.
 
@@ -62,7 +62,7 @@ Engagement
 
 We are in a time in which social, environmental, and public health issues are at the forefront of our daily existence. To engage this we will again turn to the open-source movement. P5.js, a javaScript based creative-coding platform on the web, is designed for the community by the community. Consider this mission statement from its page:
 
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone. ([https://p5js.org/](https://p5js.org/))
+>p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone. ([https://p5js.org/](https://p5js.org/))
 
 The developers of p5.js built the platform to provide access to coding and to allow it to be modified and extended by others. Because it is a web based platform, a user can access it from a public computer such as a library and save their work. It is designed to remove barriers to education and provides community support for users. Similar practices can be found in Architecture with the free sharing of plug-ins and components on sites such as [https://www.food4rhino.com/en](https://www.food4rhino.com/en) . In all of these instances, the design of the software is the design project. The intent of the software is not to produce a singular project for a specific user, but instead to design a software capable of producing innumerable solutions for a wide range of users. Similarly, as we develop our projects we will consider the design of the our plug-ins as design projects that uses code as medium to engage the social, political, or environmental problems facing architecture as a discipline.
 
@@ -79,25 +79,26 @@ STRUCTURE:
 
 The semester will be broken into four graded components:
 
-SKETCHES:
+*SKETCHES:*
 
 Borrowing a term from platform _Processing_, students will be required to produce weekly "sketches" in the form of programs that produce images or objects. Sketches are due on the Monday of each class and must include (1) image of the output in .png format and the code file. Students will receive credit or no credit on each sketch. The semester will start with single paragraph "briefs" for the sketches. However, as the semester progresses, the sketches will consist entirely of updates to the students plug-in. As the term suggests, a sketch is a quick test of an idea. Students are encouraged to think imaginatively and to produce work that does not mirror the in-class examples. The sketches must run to receive credit.
+Sketches must be submitted to the class one-drive/github repository by 10:30 am of every wednesday.
 
-Assignment 1: RESEARCH
+*Assignment 1: RESEARCH*
 
 In the first assignment, students will complete a series of weekly computational imaging exercises closely connected to the in-class tutorials. The exercises will have little direct relationship to the students research, but will help to introduce them to the fundamentals of programming. In parallel to this students will identify a social or environmental problem and connect to a problem of architecture. This will be supported by a catalog of precedents that embody the particular problem. Students are encouraged to find precedents both within and without the discipline of architecture.
 
 Formats: .jpg, .py, and .pdf
 
-Assignment 2: BUILD
+*Assignment 2: BUILD*
 
-Students will begin to work on their plug-ins. A series of 3D programming tutorial will help students to deal with issues of thickness, color, and visualization. Students will produce a set of images and a single 3D print utilizing their program. Students will begin write a brief explanation of the program and its connection to the architectural problem and precedents.
+Students will begin to work on their plug-ins. A series of 3D programming tutorial will help students to deal with issues of thickness, color, and visualization. Students will produce a short video that documents their research, plugin, and project statement.  The video will also include documentation of user testing, in the form of images and animations produced by other students outside of the class. 
 
-Assignment 3: DEMONSTRATE
+*Assignment 3: DEMONSTRATE*
 
-During this phase students will test their programs by distributing them as plug-ins to other students in the class. Students will collect the results of the test and modify the program accordingly. Lastly, students will produce a short five minute video that explains their degree project research and software plug-in. It should include images from the test as well as a demonstration of the plug-in in action.
+During this phase students will test their programs by distributing them as plug-ins to other students in the class. Students will collect the results of the test and modify the program accordingly. Lastly, students will produce a short five minute video that explains their degree project research and software plug-in. It should include images from the test as well as a demonstration of the plug-in in action. Lastly, a the video should conclude with a schedule of work to be completed over the spring semester. 
 
-Schedule and Deliverables
+**Schedule and Deliverables**
 
 Week 1 – August 29 + August 31
 
