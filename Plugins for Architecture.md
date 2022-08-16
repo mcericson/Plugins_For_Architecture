@@ -40,7 +40,7 @@ Precision: Students will construct a precise and functioning software plug-in. T
   
 **Plugins for Architecture**
 
->It [a computer] is a medium that can dynamically simulate the details of any other medium, including media that cannot exist physically. It is not a tool, though it can act like many tools. It is the first metamedium, and as such has degrees of freedom for representation and expression never before encountered and as yet barely Investigated. (Alan Kay, "Computer Software", 1984)
+<span style="font-size:.75em;">It [a computer] is a medium that can dynamically simulate the details of any other medium, including media that cannot exist physically. It is not a tool, though it can act like many tools. It is the first metamedium, and as such has degrees of freedom for representation and expression never before encountered and as yet barely Investigated. (Alan Kay, "Computer Software", 1984)</span>
 
 Within much of architectural education and practice computers and by extension software are considered tools. Students learn to use "digital tools" to produce images of buildings as plans, sections, elevations, and renderings. Similarly, three-dimensional objects are produced through 3D printing or other means of digital fabrication. When we call a computer or a piece of software a tool, we do so with the intent of carefully separating the work of the tool from the intent of the designer/author. The tool is deployed by the designer to produce a specific result. The tool is little more than a facilitator. The tool is not the author. At least this is the argument.
 
